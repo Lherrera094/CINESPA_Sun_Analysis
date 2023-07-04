@@ -1,2 +1,3 @@
 # Other_Works
-Works done during different events and/or courses.
+Code developed in python for analysis of the data from Sun. using Sunpy library.
+This code was developed during assitance to the research laboratory CINESPA in Universidad de Costa Rica.
